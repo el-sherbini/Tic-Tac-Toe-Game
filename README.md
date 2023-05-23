@@ -1,7 +1,6 @@
 # To-Do App
 
 > Tic-Tac-Toe Game built with Vue.js, Tailwind CSS.
-> Live demo [_here_](https://bre.is/QnpuLvEH).
 
 ## Installation and Setup Instructions
 
