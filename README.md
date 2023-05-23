@@ -1,4 +1,4 @@
-# To-Do App
+# Tic-Tac-Toe App
 
 > Tic-Tac-Toe Game built with Vue.js, Tailwind CSS.
 
